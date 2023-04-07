@@ -1,0 +1,92 @@
+{
+  "datas": [
+    {
+      "Name": "Nash Maynard",
+      "Age": 10,
+      "Number": "+1 (289) 462-9176",
+      "DOB": "2013-01-08",
+      "Email": "jina@mailinator.com",
+      "Password": "Pa$$w0rd!",
+      "Gender": "Male",
+      "Time": "2023-04-06T18:13:02.030Z",
+      "id": 1
+    },
+    {
+      "Name": "Ignacia Langley",
+      "Age": 15,
+      "Number": "+1 (831) 945-7283",
+      "DOB": "2008-10-07",
+      "Email": "modidaniq@mailinator.com",
+      "Password": "Pa$$w0rd!",
+      "Gender": "Male",
+      "Time": "2023-04-06T18:13:13.456Z",
+      "id": 2
+    },
+    {
+      "Name": "Hermione Hudson",
+      "Age": 53,
+      "Number": "+1 (152) 343-1284",
+      "DOB": "1970-02-26",
+      "Email": "dase@mailinator.com",
+      "Password": "Pa$$w0rd!",
+      "Gender": "Female",
+      "Time": "2023-04-06T18:13:17.793Z",
+      "id": 3
+    },
+    {
+      "Name": "McKenzie Wolf",
+      "Age": 28,
+      "Number": "+1 (293) 836-1257",
+      "DOB": "1995-05-08",
+      "Email": "gulywyfe@mailinator.com",
+      "Password": "Pa$$w0rd!",
+      "Gender": "Female",
+      "Time": "2023-04-06T18:13:23.816Z",
+      "id": 4
+    },
+    {
+      "Name": "Phelan Chan",
+      "Age": 52,
+      "Number": "+1 (327) 239-2581",
+      "DOB": "1971-12-12",
+      "Email": "ganu@mailinator.com",
+      "Password": "Pa$$w0rd!",
+      "Gender": "Male",
+      "Time": "2023-04-06T18:13:35.218Z",
+      "id": 6
+    },
+    {
+      "Name": "Colin Guy",
+      "Age": 29,
+      "Number": "+1 (355) 326-6514",
+      "DOB": "1994-06-16",
+      "Email": "nuvyxe@mailinator.com",
+      "Password": "Pa$$w0rd!",
+      "Gender": "Male",
+      "Time": "2023-04-06T18:13:39.443Z",
+      "id": 7
+    },
+    {
+      "Name": "Chadwick Bradford",
+      "Age": 11,
+      "Number": "+1 (185) 405-8537",
+      "DOB": "2012-09-19",
+      "Email": "jocina@mailinator.com",
+      "Password": "Pa$$w0rd!",
+      "Gender": "",
+      "Time": "2023-04-06T18:13:43.808Z",
+      "id": 8
+    },
+    {
+      "Name": "MacKensie Romero",
+      "Age": 2,
+      "Number": "+1 (501) 708-5526",
+      "DOB": "2021-03-24",
+      "Email": "cityq@mailinator.com",
+      "Password": "Pa$$w0rd!",
+      "Gender": "Female",
+      "Time": "2023-04-06T18:13:49.624Z",
+      "id": 9
+    }
+  ]
+}

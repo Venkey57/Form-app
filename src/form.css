@@ -1,0 +1,52 @@
+body{
+    box-sizing: border-box;
+}
+.container{
+    width: 400px;
+    margin: auto;
+    
+}
+h3{
+    text-align: center;
+}
+input{
+    background-color: rgb(240, 251, 255);
+    width: 100%;
+    color: black;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+input[type="radio"]{
+    width: auto;
+    margin: 20px 15px ;
+    text-align: center; 
+}
+
+input[type="submit"]{
+    background-color: blue;
+    width: 30%;
+    margin-left: 30%;
+    cursor: pointer;
+    color: white;
+}
+button{
+    background-color: blue;
+    color: whitesmoke;
+    cursor: pointer;
+    padding: 5px 5px;
+    border-radius: 4px;
+    margin-left: 40%;
+    margin-top: 15px;
+    
+}
+span{
+    display: block;
+    color: red;
+}
